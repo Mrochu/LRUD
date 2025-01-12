@@ -1,0 +1,713 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1736645494283950, "dur":65, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645494284107, "dur":63605, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645494347725, "dur":959, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645494348790, "dur":153, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1736645494348944, "dur":648, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645494349671, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1736645494349791, "dur":171, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494349977, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494350188, "dur":291, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1736645494350491, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494350582, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level10" }}
+,{ "pid":12345, "tid":0, "ts":1736645494350719, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level10.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494350867, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level11" }}
+,{ "pid":12345, "tid":0, "ts":1736645494350973, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level11.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351147, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level12.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351220, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level13" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351292, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level13.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351398, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level14.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351682, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level15.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351746, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level16" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351806, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level16.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351877, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level17" }}
+,{ "pid":12345, "tid":0, "ts":1736645494351968, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level17.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352030, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level18" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352110, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level18.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352175, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level19" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352238, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level19.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352298, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352357, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level2.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352488, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level20" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352550, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level20.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352678, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level21.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352742, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level22" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352922, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level23" }}
+,{ "pid":12345, "tid":0, "ts":1736645494352992, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level23.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353054, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level24" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353117, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level24.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353173, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level25" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353235, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level25.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353301, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level26" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353363, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level26.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353518, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level28" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353572, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level28.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353662, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level29.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353716, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353771, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level3.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494353833, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level30" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354019, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level31.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354077, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level32" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354133, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level32.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354229, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level33.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354332, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level34.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354387, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level35" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354441, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level35.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354495, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level36" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354644, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level37.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354700, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level38" }}
+,{ "pid":12345, "tid":0, "ts":1736645494354940, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355038, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level40" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355097, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level40.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355152, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level41" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355212, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level41.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355313, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level5" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355392, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level5.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355494, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level6" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355579, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level6.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355640, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level7" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355710, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level7.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355772, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level8" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355832, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level8.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355902, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level9" }}
+,{ "pid":12345, "tid":0, "ts":1736645494355958, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/level9.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494356020, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494356492, "dur":146, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494356680, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets16.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494356771, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets18.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494356925, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357014, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets21.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357071, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets22.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357162, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets24.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357219, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets25.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357307, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets27.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357363, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets28.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357452, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357544, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets31.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357600, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets32.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357771, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets36.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357833, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets37.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494357953, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets39.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358009, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358152, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358243, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358299, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358393, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358451, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358755, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358817, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358915, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494358978, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359069, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359165, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359232, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359291, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359396, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359492, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359626, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359752, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359831, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494359948, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360042, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360122, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360197, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360284, "dur":177, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360476, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360560, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360665, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360800, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360874, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494360949, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361094, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361165, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361298, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361450, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361540, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361597, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361655, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361711, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361805, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361895, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494361987, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362060, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362163, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362217, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362276, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362365, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362419, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362518, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362597, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362740, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362832, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494362951, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363047, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363104, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363199, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363255, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363344, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363402, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363496, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363567, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363654, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363756, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363811, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363903, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494363958, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364050, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364106, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364208, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364265, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364357, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364411, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364557, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364656, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364755, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364817, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD.exe" }}
+,{ "pid":12345, "tid":0, "ts":1736645494364926, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365002, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365105, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365184, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365284, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365355, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365446, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365588, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365654, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365758, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365854, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1736645494365946, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366030, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366109, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366189, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366260, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366315, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366377, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366459, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366535, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1736645494349655, "dur":16960, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645494366631, "dur":1111393, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645495478053, "dur":61, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645495478416, "dur":74, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645495478524, "dur":116, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645495478524, "dur":118, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645495478648, "dur":32216, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1736645494350455, "dur":16197, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736645494366659, "dur":12577, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736645494446559, "dur":329, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736645494447679, "dur":5919, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1736645494453616, "dur":307, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1736645494454150, "dur":232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1736645494455296, "dur":289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736645494455592, "dur":519, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736645494456118, "dur":915, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736645494457041, "dur":1241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736645494458289, "dur":1838, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736645494460136, "dur":354, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736645494460498, "dur":1365, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1736645494462086, "dur":423, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player50441454-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1736645494453611, "dur":9346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1736645494464605, "dur":291, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736645495454149, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1736645494465865, "dur":988445, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1736645495473924, "dur":217, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1736645495473922, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1736645495474188, "dur":3090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1736645494350821, "dur":16614, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494367441, "dur":1143, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494368585, "dur":1600, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494370186, "dur":1172, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494371359, "dur":7890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494379278, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494383841, "dur":8839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1736645494392688, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1736645494392907, "dur":206, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494407638, "dur":10276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1736645494418040, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1736645494418201, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494418592, "dur":5594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1736645494424311, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1736645494425341, "dur":14198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1736645494439719, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1736645494439831, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494441014, "dur":14733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1736645494455902, "dur":171, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494455894, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494489501, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494462402, "dur":28144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494534877, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494490876, "dur":44125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494535235, "dur":4957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494550975, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494540511, "dur":10646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494551386, "dur":11107, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494562722, "dur":8646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494592650, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494571703, "dur":21191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494593211, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494620177, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494593309, "dur":26964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494620520, "dur":1183, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494621721, "dur":19927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494641945, "dur":71256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494729999, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494713540, "dur":16746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494769180, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494730796, "dur":39004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1736645494770041, "dur":40515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":2, "ts":1736645494811002, "dur":24743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets30.assets" }}
+,{ "pid":12345, "tid":2, "ts":1736645494835949, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494850239, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494836052, "dur":14373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets26.assets" }}
+,{ "pid":12345, "tid":2, "ts":1736645494862458, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494850914, "dur":11717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets21.assets" }}
+,{ "pid":12345, "tid":2, "ts":1736645494862821, "dur":23556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets16.assets" }}
+,{ "pid":12345, "tid":2, "ts":1736645494886579, "dur":46625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645494934208, "dur":33986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level39" }}
+,{ "pid":12345, "tid":2, "ts":1736645494968361, "dur":6705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level31.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645494975257, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494987593, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494975325, "dur":12370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level3.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645494998660, "dur":138, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494987933, "dur":11225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level28.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645494999782, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645494999874, "dur":6471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level26.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645495006554, "dur":8979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level24" }}
+,{ "pid":12345, "tid":2, "ts":1736645495015690, "dur":240, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645495015944, "dur":9881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level22" }}
+,{ "pid":12345, "tid":2, "ts":1736645495026004, "dur":14614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645495040781, "dur":49949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level16.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645495091172, "dur":11442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level14.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645495111056, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645495102814, "dur":8421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level12" }}
+,{ "pid":12345, "tid":2, "ts":1736645495119070, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1736645495111490, "dur":7875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1736645495120690, "dur":356727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494350702, "dur":16057, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494366766, "dur":1810, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494368578, "dur":1087, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494369666, "dur":1712, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\level38" }}
+,{ "pid":12345, "tid":3, "ts":1736645494369665, "dur":2549, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494372214, "dur":7039, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494379287, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1736645494379263, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1736645494401058, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494381625, "dur":19575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1736645494401332, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494401324, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494423688, "dur":252, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494408931, "dur":15295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494424466, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494424458, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494425144, "dur":13504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494438807, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494438802, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494456177, "dur":2638, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494440948, "dur":17913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1736645494459250, "dur":733, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494459243, "dur":747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494462572, "dur":73963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494565579, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494536783, "dur":29035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494566313, "dur":3229, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494569562, "dur":13826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494583560, "dur":53, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494583660, "dur":17243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494601390, "dur":15728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494617336, "dur":16158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494633752, "dur":20493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494654564, "dur":238, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494664629, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494654829, "dur":9955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494665151, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494665325, "dur":6604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494672368, "dur":17862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494690738, "dur":17277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494708219, "dur":8782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494739746, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494717320, "dur":22534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494740100, "dur":28025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1736645494771169, "dur":850, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494768339, "dur":3713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":3, "ts":1736645494772234, "dur":1128, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494773801, "dur":48674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets39.assets" }}
+,{ "pid":12345, "tid":3, "ts":1736645494837990, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645494822673, "dur":15415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets28.assets" }}
+,{ "pid":12345, "tid":3, "ts":1736645494838362, "dur":14494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets25.assets" }}
+,{ "pid":12345, "tid":3, "ts":1736645494853022, "dur":7840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets20.assets" }}
+,{ "pid":12345, "tid":3, "ts":1736645494861087, "dur":57067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets18.assets" }}
+,{ "pid":12345, "tid":3, "ts":1736645494918393, "dur":29813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level5.resS" }}
+,{ "pid":12345, "tid":3, "ts":1736645494948383, "dur":56519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level36.resS" }}
+,{ "pid":12345, "tid":3, "ts":1736645495005172, "dur":23267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level24.resS" }}
+,{ "pid":12345, "tid":3, "ts":1736645495028787, "dur":69010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level19.resS" }}
+,{ "pid":12345, "tid":3, "ts":1736645495108539, "dur":1238, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645495134602, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1736645495109792, "dur":24909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level10.resS" }}
+,{ "pid":12345, "tid":3, "ts":1736645495134812, "dur":342629, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494350597, "dur":16070, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494367416, "dur":2181, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494366671, "dur":3707, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494370379, "dur":786, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494371166, "dur":8167, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494379411, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1736645494379338, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1736645494423517, "dur":204, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494415195, "dur":8593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1736645494423918, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1736645494423912, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1736645494425047, "dur":10828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1736645494436053, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1736645494449974, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494437867, "dur":12305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1736645494450347, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1736645494467854, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494450553, "dur":17400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1736645494502727, "dur":267, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494478952, "dur":24117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494503420, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494528151, "dur":187, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494503501, "dur":24969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494528725, "dur":9275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494538221, "dur":7034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494545418, "dur":8623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494568711, "dur":735, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494554349, "dur":15135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494569738, "dur":11272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494581332, "dur":8545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494590099, "dur":138, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494590254, "dur":14288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494629208, "dur":123, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494605321, "dur":24103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494646019, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494629624, "dur":16544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494646429, "dur":394, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494646839, "dur":19314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494666356, "dur":191, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494666561, "dur":7935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494674729, "dur":14032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494689002, "dur":4614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494693844, "dur":19880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494714128, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494714225, "dur":22570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494751127, "dur":267, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494737009, "dur":14498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494772742, "dur":708, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494752128, "dur":21363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1736645494773744, "dur":284, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494805993, "dur":218, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494774040, "dur":32248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets38.assets" }}
+,{ "pid":12345, "tid":4, "ts":1736645494806986, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494879132, "dur":302, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494807133, "dur":72347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets32.assets" }}
+,{ "pid":12345, "tid":4, "ts":1736645494879738, "dur":31308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":4, "ts":1736645494917507, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494911269, "dur":6343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level7" }}
+,{ "pid":12345, "tid":4, "ts":1736645494917818, "dur":8738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level6" }}
+,{ "pid":12345, "tid":4, "ts":1736645494926718, "dur":5176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level40" }}
+,{ "pid":12345, "tid":4, "ts":1736645494942016, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494932182, "dur":10124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level39.resS" }}
+,{ "pid":12345, "tid":4, "ts":1736645494942638, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494950138, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494942737, "dur":7710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level37.resS" }}
+,{ "pid":12345, "tid":4, "ts":1736645494962585, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494950984, "dur":11773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level36" }}
+,{ "pid":12345, "tid":4, "ts":1736645494963595, "dur":6038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level33" }}
+,{ "pid":12345, "tid":4, "ts":1736645494976425, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494969792, "dur":6776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level31" }}
+,{ "pid":12345, "tid":4, "ts":1736645494976909, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495003805, "dur":150, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645494977012, "dur":27427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1736645495015482, "dur":411, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495004662, "dur":11260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level25.resS" }}
+,{ "pid":12345, "tid":4, "ts":1736645495016150, "dur":166, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495025746, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495016328, "dur":9697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level21.resS" }}
+,{ "pid":12345, "tid":4, "ts":1736645495026234, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495026315, "dur":11706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1736645495038193, "dur":50498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level17.resS" }}
+,{ "pid":12345, "tid":4, "ts":1736645495097627, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495088820, "dur":9001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level15" }}
+,{ "pid":12345, "tid":4, "ts":1736645495106267, "dur":155, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495098189, "dur":8279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level13.resS" }}
+,{ "pid":12345, "tid":4, "ts":1736645495106702, "dur":6442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level11" }}
+,{ "pid":12345, "tid":4, "ts":1736645495122602, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1736645495113378, "dur":9398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1736645495122984, "dur":354408, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494350664, "dur":16019, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494366690, "dur":1407, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494368097, "dur":1240, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494369338, "dur":1595, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494370934, "dur":8317, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494379293, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494379263, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494381174, "dur":82821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494464147, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1736645494465876, "dur":16179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1736645494513891, "dur":324, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494482808, "dur":31460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494514523, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494514609, "dur":22383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494537211, "dur":9834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494557476, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494547211, "dur":10449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494565977, "dur":3381, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494557901, "dur":11562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494584644, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494570556, "dur":14296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494585363, "dur":161, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494585552, "dur":15376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494617189, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494601157, "dur":16237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494641893, "dur":333, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494617727, "dur":24543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494642542, "dur":57, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494642612, "dur":11990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494654853, "dur":6821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494661931, "dur":7125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494689654, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494669275, "dur":20525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494689999, "dur":244, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494722695, "dur":874, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494690258, "dur":33357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494724874, "dur":365, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494770612, "dur":530, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494725260, "dur":45923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1736645494771464, "dur":21569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets40.assets" }}
+,{ "pid":12345, "tid":5, "ts":1736645494793281, "dur":29103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets35.assets" }}
+,{ "pid":12345, "tid":5, "ts":1736645494840103, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494822640, "dur":17921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets29.assets" }}
+,{ "pid":12345, "tid":5, "ts":1736645494840853, "dur":13008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets23.assets" }}
+,{ "pid":12345, "tid":5, "ts":1736645494864052, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494854174, "dur":9978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1736645494898221, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494864401, "dur":33952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets15.assets" }}
+,{ "pid":12345, "tid":5, "ts":1736645494899155, "dur":4863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645494910744, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494904231, "dur":6746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level9.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645494911183, "dur":7651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level7.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645494928058, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494919092, "dur":9127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level5" }}
+,{ "pid":12345, "tid":5, "ts":1736645494928618, "dur":5680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level4.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645494934571, "dur":12845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level38.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645494947570, "dur":9473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level37" }}
+,{ "pid":12345, "tid":5, "ts":1736645494957204, "dur":10674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level35" }}
+,{ "pid":12345, "tid":5, "ts":1736645494973509, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494968079, "dur":5528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level32" }}
+,{ "pid":12345, "tid":5, "ts":1736645494981661, "dur":350, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494973814, "dur":8247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level30" }}
+,{ "pid":12345, "tid":5, "ts":1736645494982324, "dur":123, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494988576, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645494982463, "dur":6291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level29" }}
+,{ "pid":12345, "tid":5, "ts":1736645494988931, "dur":13562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level27.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645495002660, "dur":5171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level26" }}
+,{ "pid":12345, "tid":5, "ts":1736645495021097, "dur":124, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645495007986, "dur":13385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level23.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645495030248, "dur":146, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645495021578, "dur":8893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level21" }}
+,{ "pid":12345, "tid":5, "ts":1736645495031313, "dur":48704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level19" }}
+,{ "pid":12345, "tid":5, "ts":1736645495080250, "dur":20651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level16" }}
+,{ "pid":12345, "tid":5, "ts":1736645495108668, "dur":1152, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645495101066, "dur":8796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level12.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645495114486, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1736645495110079, "dur":4540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level10" }}
+,{ "pid":12345, "tid":5, "ts":1736645495114834, "dur":14545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1736645495129517, "dur":348118, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494350794, "dur":16516, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494367587, "dur":2115, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494369809, "dur":1140, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494367317, "dur":4320, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494371637, "dur":7880, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494379524, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1736645494410992, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494411499, "dur":9402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1736645494421172, "dur":489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1736645494433279, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494423455, "dur":9953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1736645494433691, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1736645494433845, "dur":97, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494435833, "dur":12059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1736645494448033, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1736645494448025, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1736645494469867, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494449195, "dur":20774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1736645494511484, "dur":148, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494479205, "dur":32520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494537565, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494512201, "dur":25557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494538240, "dur":9239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494547756, "dur":11346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494559394, "dur":16967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494590093, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494576673, "dur":13541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494606604, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494590433, "dur":16385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494627372, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494607212, "dur":20348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494642000, "dur":276, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494627861, "dur":14490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494642681, "dur":11965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494654891, "dur":5464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494660595, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494660673, "dur":8355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494669314, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494669383, "dur":6575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494676181, "dur":13544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494690167, "dur":103, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494690283, "dur":27383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494771385, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494717867, "dur":53651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1736645494771826, "dur":18706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494797633, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494790699, "dur":7084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets36.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494798262, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494809232, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494798333, "dur":11000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets34.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494809532, "dur":29730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets31.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494839459, "dur":18444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets24.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494858094, "dur":12402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets19.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494870720, "dur":17149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494898662, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645494888032, "dur":10754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645494899418, "dur":7057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1736645494906672, "dur":16012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level8.resS" }}
+,{ "pid":12345, "tid":6, "ts":1736645494922846, "dur":34590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level40.resS" }}
+,{ "pid":12345, "tid":6, "ts":1736645494957758, "dur":28830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level34.resS" }}
+,{ "pid":12345, "tid":6, "ts":1736645494991125, "dur":19583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level27" }}
+,{ "pid":12345, "tid":6, "ts":1736645495022272, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645495011147, "dur":11289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level23" }}
+,{ "pid":12345, "tid":6, "ts":1736645495022780, "dur":15051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level20.resS" }}
+,{ "pid":12345, "tid":6, "ts":1736645495113789, "dur":733, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1736645495038011, "dur":76995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level18" }}
+,{ "pid":12345, "tid":6, "ts":1736645495115249, "dur":25003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1736645495140401, "dur":336996, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494350903, "dur":17465, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494369461, "dur":1726, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets8.assets" }}
+,{ "pid":12345, "tid":7, "ts":1736645494368374, "dur":3280, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494371655, "dur":7883, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494379543, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1736645494441993, "dur":21506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":7, "ts":1736645494463791, "dur":2453, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":7, "ts":1736645494463788, "dur":2461, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD.exe" }}
+,{ "pid":12345, "tid":7, "ts":1736645494466318, "dur":27916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD.exe" }}
+,{ "pid":12345, "tid":7, "ts":1736645494537152, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494495116, "dur":42269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494537573, "dur":208, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494537796, "dur":8629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494546709, "dur":13261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494560784, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\a0105\\OneDrive\\ \\ \\lrud_1.0v\\demention_poroto (3)\\demention_poroto\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494560756, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494591496, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494560907, "dur":30754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494639954, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494592017, "dur":48060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494640298, "dur":65943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494820260, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494706452, "dur":114102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1736645494821043, "dur":31988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1736645494868965, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494853437, "dur":15655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1736645494869347, "dur":14973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets14.assets" }}
+,{ "pid":12345, "tid":7, "ts":1736645494884513, "dur":6280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":7, "ts":1736645494891166, "dur":13456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1736645494904873, "dur":14998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level9" }}
+,{ "pid":12345, "tid":7, "ts":1736645494929862, "dur":201, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494920309, "dur":10218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level41.resS" }}
+,{ "pid":12345, "tid":7, "ts":1736645494941275, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494931327, "dur":10040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level4" }}
+,{ "pid":12345, "tid":7, "ts":1736645494941559, "dur":18004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level38" }}
+,{ "pid":12345, "tid":7, "ts":1736645495098636, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1736645494959942, "dur":139615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level33.resS" }}
+,{ "pid":12345, "tid":7, "ts":1736645495100298, "dur":12743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level13" }}
+,{ "pid":12345, "tid":7, "ts":1736645495113361, "dur":13787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1736645495127664, "dur":349740, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494351013, "dur":18856, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494369870, "dur":1531, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494371402, "dur":8297, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494379729, "dur":154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.34f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1736645494379700, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1736645494444144, "dur":155, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494454355, "dur":206, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494444423, "dur":10180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1736645494454778, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1736645494454920, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494524135, "dur":124, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494495492, "dur":28818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1736645494524583, "dur":12640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494537508, "dur":100, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494568752, "dur":862, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494537633, "dur":32013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494579967, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494569837, "dur":10354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494580452, "dur":331, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494597614, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494580797, "dur":17051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494598467, "dur":14863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494628385, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494613580, "dur":14940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494647836, "dur":1650, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494628788, "dur":20781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494650480, "dur":191, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494655164, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494650720, "dur":4583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494664771, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494655483, "dur":9424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494665275, "dur":6970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494672471, "dur":14580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494691442, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494687297, "dur":4283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494710284, "dur":142, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494691828, "dur":18653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494710793, "dur":15617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494735683, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494726605, "dur":9230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494736061, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494754935, "dur":148, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494736307, "dur":18821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1736645494755439, "dur":170, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494755623, "dur":4301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494764802, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494760068, "dur":4908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494769221, "dur":139, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494765185, "dur":5200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494770576, "dur":93, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494770682, "dur":3976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets41.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494774819, "dur":514, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494775347, "dur":29997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets37.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494826962, "dur":167, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494805558, "dur":21616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets33.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494842896, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494829815, "dur":13193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets27.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494843191, "dur":17690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets22.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494861583, "dur":11547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets17.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494873279, "dur":11913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494885630, "dur":6682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494902837, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494892489, "dur":10468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1736645494903170, "dur":5056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1736645494908496, "dur":4637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level8" }}
+,{ "pid":12345, "tid":8, "ts":1736645494913330, "dur":9124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level6.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645494922677, "dur":28811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level41" }}
+,{ "pid":12345, "tid":8, "ts":1736645494951634, "dur":6567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level35.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645494958431, "dur":8852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level34" }}
+,{ "pid":12345, "tid":8, "ts":1736645494971764, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494967482, "dur":4427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level32.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645494972097, "dur":5795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level30.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645494978074, "dur":10428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level29.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645495001873, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645494988771, "dur":16093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level28" }}
+,{ "pid":12345, "tid":8, "ts":1736645495015287, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645495005084, "dur":10303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level25" }}
+,{ "pid":12345, "tid":8, "ts":1736645495015556, "dur":241, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645495015810, "dur":7799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level22.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645495031753, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645495023791, "dur":8136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level20" }}
+,{ "pid":12345, "tid":8, "ts":1736645495039860, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645495032649, "dur":7304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level18.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645495088131, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1736645495040114, "dur":48233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level17" }}
+,{ "pid":12345, "tid":8, "ts":1736645495088595, "dur":5174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level15.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645495093949, "dur":8682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level14" }}
+,{ "pid":12345, "tid":8, "ts":1736645495102823, "dur":8608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level11.resS" }}
+,{ "pid":12345, "tid":8, "ts":1736645495111618, "dur":7807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1736645495119618, "dur":10834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/a0105/OneDrive/ /  /LRUD_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":8, "ts":1736645495130586, "dur":346891, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1736645495523065, "dur":11843, "ph":"X", "name": "ProfilerWriteOutput" }
+,
