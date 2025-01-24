@@ -25,8 +25,7 @@ public class GM : MonoBehaviour
     // Start is called before the first frame updat
     void Awake()
     {
-        
-        Screen.SetResolution(1920, 1080, true);
+        //Screen.SetResolution(1920, 1080, true);
         ani_obj.SetActive(true);
         GM_manager = this;
         animation = ani_obj.GetComponent<Animator>();
